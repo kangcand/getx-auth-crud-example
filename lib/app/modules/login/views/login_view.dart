@@ -1,4 +1,4 @@
-import 'package:eny_s/app/modules/login/controllers/login_controller.dart';
+import 'package:example/app/modules/login/controllers/login_controller.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 

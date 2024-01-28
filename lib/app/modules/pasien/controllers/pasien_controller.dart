@@ -1,11 +1,11 @@
 // pasien_controller.dart
 import 'dart:convert';
 
-import 'package:eny_s/app/modules/pasien/views/show_pasien_view.dart';
-import 'package:eny_s/app/routes/app_pages.dart';
+import 'package:example/app/modules/pasien/views/show_pasien_view.dart';
+import 'package:example/app/routes/app_pages.dart';
 import 'package:get/get.dart';
-import 'package:eny_s/app/data/models/pasien_model.dart';
-import 'package:eny_s/app/providers/api.dart';
+import 'package:example/app/data/models/pasien_model.dart';
+import 'package:example/app/providers/api.dart';
 import 'package:http/http.dart' as http;
 
 class PasienController extends GetxController {

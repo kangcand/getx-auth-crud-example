@@ -1,4 +1,4 @@
-import 'package:eny_s/app/modules/register/controllers/register_controller.dart';
+import 'package:example/app/modules/register/controllers/register_controller.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 

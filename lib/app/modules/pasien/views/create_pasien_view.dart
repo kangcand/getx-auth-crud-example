@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:eny_s/app/modules/pasien/controllers/pasien_controller.dart';
+import 'package:example/app/modules/pasien/controllers/pasien_controller.dart';
 
 class TambahPasienView extends StatelessWidget {
   final PasienController controller = Get.find<PasienController>();

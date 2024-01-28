@@ -1,6 +1,6 @@
 // detail_pasien_view.dart
 import 'package:flutter/material.dart';
-import 'package:eny_s/app/data/models/pasien_model.dart';
+import 'package:example/app/data/models/pasien_model.dart';
 
 class DetailPasienView extends StatelessWidget {
   final Pasien pasien;

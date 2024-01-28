@@ -1,10 +1,10 @@
 // pasien_view.dart
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:eny_s/app/data/models/pasien_model.dart';
+import 'package:example/app/data/models/pasien_model.dart';
 import 'edit_pasien_view.dart';
 import 'show_pasien_view.dart';
-import 'package:eny_s/app/modules/pasien/controllers/pasien_controller.dart';
+import 'package:example/app/modules/pasien/controllers/pasien_controller.dart';
 
 class PasienView extends StatelessWidget {
   final PasienController controller = Get.put(PasienController());

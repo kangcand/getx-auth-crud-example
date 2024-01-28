@@ -1,4 +1,4 @@
-package com.example.eny_s
+package com.example.example
 
 import io.flutter.embedding.android.FlutterActivity
 

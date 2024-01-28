@@ -1,7 +1,7 @@
-import 'package:eny_s/app/middleware/auth_middleware.dart';
-import 'package:eny_s/app/modules/pasien/views/create_pasien_view.dart';
-import 'package:eny_s/app/modules/pasien/views/edit_pasien_view.dart';
-import 'package:eny_s/app/modules/pasien/views/show_pasien_view.dart';
+import 'package:example/app/middleware/auth_middleware.dart';
+import 'package:example/app/modules/pasien/views/create_pasien_view.dart';
+import 'package:example/app/modules/pasien/views/edit_pasien_view.dart';
+import 'package:example/app/modules/pasien/views/show_pasien_view.dart';
 import 'package:get/get.dart';
 
 import '../modules/bottom_menu/bindings/bottom_menu_binding.dart';

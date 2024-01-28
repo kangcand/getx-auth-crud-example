@@ -1,7 +1,7 @@
 // bottom_menu_view.dart
-import 'package:eny_s/app/modules/home/views/home_view.dart';
-import 'package:eny_s/app/modules/pasien/views/pasien_view.dart';
-import 'package:eny_s/app/modules/profil/views/profil_view.dart';
+import 'package:example/app/modules/home/views/home_view.dart';
+import 'package:example/app/modules/pasien/views/pasien_view.dart';
+import 'package:example/app/modules/profil/views/profil_view.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import '../controllers/bottom_menu_controller.dart';

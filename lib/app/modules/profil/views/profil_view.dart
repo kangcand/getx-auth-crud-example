@@ -1,5 +1,5 @@
 // profil_view.dart
-import 'package:eny_s/app/modules/profil/controllers/profil_controller.dart';
+import 'package:example/app/modules/profil/controllers/profil_controller.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 
