@@ -1,4 +1,4 @@
-# eny_s
+# auth crud api with getx
 
 A new Flutter project.
 
